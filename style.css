@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+.surveillance{
+    font-size:23;
+    width:100%;
+    margin:0px;
+}
+.footer{
+    position:fixed;
+    width:100%;
+    bottom: 0px;
+    text-align: center;
+    background-color: aqua;
+    color:black;
+}

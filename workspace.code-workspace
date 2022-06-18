@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../C135"
+		},
+		{
+			"path": "../ADV-C131-C133"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "AI-Video-Surveillance"
+	}
+}
